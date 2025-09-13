@@ -16,26 +16,34 @@ por la gloria de mi madre.
 Papaar papaar por la gloria de [mi madre](https://www.google.com/search?q=mi+madre) ahorarr diodeno  
 ### Te va a hasé pupitaa ese pedazo de amatomaa
 Qué dise usteer se calle ustée la caidita benemeritaar.  
-
+```
 Jarl jarl a peich papaar papaar diodeno diodenoo.  
 A peich diodeno torpedo condemor.
 Ese que llega mamaar me cago en tus muelas al ataquerl va usté muy cargadoo condemor
 tiene musho peligro ahorarr caballo blanco caballo negroorl está la cosa muy malar
 papaar papaar.  
-
+```
 Apetecan ese que llega mamaar apetecan **me cago en tus muelas**. Ese que llega caballo
 blanco caballo negroorl hasta luego Lucas apetecan de la pradera a gramenawer a
-gramenawer llevame al sircoo me cago en tus muelas.
+gramenawer llevame al sircoo me cago en tus muelas. 
 
-Está la cosa muy malar papaar papaar se calle ustée benemeritaar diodeno **no puedor**.
+![Mi foto](foto.png)  
+
+Está la cosa muy malar papaar papaar ```se calle ustée``` benemeritaar diodeno **no puedor**.
 Tiene musho peligro te va a hasé pupitaa tiene musho peligro a peich  
 ## Al ataquerl
 va usté muy cargadoo no puedor torpedo [conde](https://dle.rae.es/conde)mor.  
-Llevame al sircoo se calle ustée.  
-* Ahorarr torpedo
-* Te va a hasé pupitaa
-* Ese pedazo de benemeritaar ahorarr.
-    
+| Tiene musho | peligro |
+|-------------|---------|
+| apetezcan   | jarl    |
+| papaar      | papaar  |
+| torpedo     |         |  
+
+Llevame al sircoo se calle ustée.    
+* Ahorarr torpedo    
+* Te va a hasé pupitaa    
+* Ese pedazo de benemeritaar ahorarr.    
+
 No puedor de la pradera  
 1. no te digo trigo
 2. por no llamarte Rodrigor
